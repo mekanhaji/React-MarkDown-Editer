@@ -1,1 +1,3 @@
 /node_modules
+# see dist in gh page branch
+/dist
