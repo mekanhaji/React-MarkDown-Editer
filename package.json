@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mekanhaji.github.io/React-MarkDown-Editer/",
+  "homepage": "https://mekanhaji.github.io/React-MarkDown-Editer",
   "name": "project",
   "dependencies": {
     "nanoid": "3.1.28",
